@@ -1,4 +1,4 @@
-# skill-test1
+# Coalition Technologies Test
 
 ## Description
 
@@ -20,9 +20,7 @@ The PSD to HTML conversion gave me a file from which I extracted the images. The
 - JavaScript
 - Bootstrap
 
-## Usage
 
-![](./images/screenshot1.jpg)
 
 ## Credits
 
